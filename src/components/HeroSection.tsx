@@ -235,7 +235,7 @@ export const HeroSection: React.FC = () => {
 
               {/* Download Resume Button */}
               <motion.a
-                href="/resume.pdf"
+                href="/"
                 target="_blank"
                 rel="noopener noreferrer"
                 onMouseEnter={() => setIsHovered(true)}
